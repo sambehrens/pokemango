@@ -1,0 +1,106 @@
+#myCanvas {
+    float: left;
+    width: 30%;
+    height: 100%;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+body {
+    margin: auto;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: url(finger.png), auto;
+    font-family: Verdana;
+    background-image: url(background.png);
+}
+#leftbar {
+    float: left;
+    width: 35%;
+    height: 100%;
+    position: relative;
+}
+
+#donateButton {
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+    
+}
+
+#rightbar {
+    overflow: scroll;
+    overflow-x:hidden;
+    float: left;
+    width: 35%;
+    height: 100%
+}
+
+#stats {
+    text-align: center;
+    padding: 10px;
+}
+
+#totMangos {
+    font-size: 2.2em;
+}
+
+.upgrade {
+    border-radius: 10px;
+    width: 75%;
+    background-color: darkorange;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    padding: 5%;
+    margin-bottom: 5%;
+}
+
+#upgradeMenu {
+    padding: 10%
+}
+
+.upgradeText {
+    font-size: 1.2em;
+    margin: auto;
+    position: relative;
+    z-index: 2;
+}
+
+.mpsupgrade {
+    position: relative;
+    z-index: 2;
+}
+
+.mumbot {
+    position: absolute;
+    right: 5%;
+    margin-top: 7%;
+    color: orange;
+    font-size: 5em;
+    text-align: right;
+    z-index: 1;
+}
+
+#numberBoughten1 {
+    
+}
+
+#upgrade1 {
+    
+}
+
+#upgrade2 {
+    
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}

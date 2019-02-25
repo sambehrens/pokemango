@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pokemango.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4150"
+       inkscape:collect="always">
+      <stop
+         id="stop4152"
+         offset="0"
+         style="stop-color:#fac900;stop-opacity:1;" />
+      <stop
+         id="stop4154"
+         offset="1"
+         style="stop-color:#fa0000;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4150"
+       id="linearGradient4144"
+       x1="-812.21454"
+       y1="458.84369"
+       x2="-233.73691"
+       y2="458.84369"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4150"
+       id="linearGradient4148"
+       gradientUnits="userSpaceOnUse"
+       x1="-203.64311"
+       y1="490.27225"
+       x2="-745.16547"
+       y2="664.55798" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-768.67441"
+     inkscape:cy="629.28335"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:export-ydpi="85.718018"
+       inkscape:export-xdpi="85.718018"
+       inkscape:export-filename="/Users/sambehrens/Desktop/pokemango/mango.png"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:9.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -611.42857,20.933633 c 85.29487,-40.986421 196.57977,59.284878 254.28572,134.285717 95.78124,124.48757 143.73233,302.85709 114.28571,457.14286 -21.75191,113.96923 -94.1015,242.43014 -202.85714,282.85714 -79.89541,29.69898 -184.30234,-4.0108 -248.57143,-60 -86.41123,-75.27873 -111.1436,-145.5544 -117.14286,-260 -3.93101,-74.99033 33.48839,-183.60163 65.71428,-251.42857 34.58849,-72.79959 54.76483,-85.58041 85.71429,-160 10.76204,-25.8779 23.31003,-130.718385 48.57143,-142.857147 z"
+       id="path4145"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       style="fill:url(#linearGradient4144);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1.0"
+       d="m -611.42857,20.933633 c 85.29487,-40.986421 196.57977,59.284878 254.28572,134.285717 95.78124,124.48757 143.73233,302.85709 114.28571,457.14286 -21.75191,113.96923 -94.1015,242.43014 -202.85714,282.85714 -79.89541,29.69898 -184.30234,-4.0108 -248.57143,-60 -86.41123,-75.27873 -111.1436,-145.5544 -117.14286,-260 -3.93101,-74.99033 33.48839,-183.60163 65.71428,-251.42857 34.58849,-72.79959 54.76483,-85.58041 85.71429,-160 10.76204,-25.8779 23.31003,-130.718385 48.57143,-142.857147 z"
+       id="path3336"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path4146"
+       d="m -611.42857,20.933633 c 85.29487,-40.986421 196.57977,59.284878 254.28572,134.285717 95.78124,124.48757 143.73233,302.85709 114.28571,457.14286 -21.75191,113.96923 -94.1015,242.43014 -202.85714,282.85714 -79.89541,29.69898 -184.30234,-4.0108 -248.57143,-60 -86.41123,-75.27873 -111.1436,-145.5544 -117.14286,-260 -3.93101,-74.99033 33.48839,-183.60163 65.71428,-251.42857 34.58849,-72.79959 54.76483,-85.58041 85.71429,-160 10.76204,-25.8779 23.31003,-130.718385 48.57143,-142.857147 z"
+       style="fill:url(#linearGradient4148);fill-rule:evenodd;stroke:none;stroke-width:9.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/sambehrens/Desktop/pokemango/mango.png"
+       inkscape:export-xdpi="85.718018"
+       inkscape:export-ydpi="85.718018" />
+    <path
+       inkscape:export-ydpi="85.718018"
+       inkscape:export-xdpi="85.718018"
+       inkscape:export-filename="/Users/sambehrens/Desktop/pokemango/mango.png"
+       style="fill:url(#linearGradient4148);fill-rule:evenodd;stroke:none;stroke-width:9.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -611.42857,20.933633 c 85.29487,-40.986421 196.57977,59.284878 254.28572,134.285717 95.78124,124.48757 143.73233,302.85709 114.28571,457.14286 -21.75191,113.96923 -94.1015,242.43014 -202.85714,282.85714 -79.89541,29.69898 -184.30234,-4.0108 -248.57143,-60 -86.41123,-75.27873 -111.1436,-145.5544 -117.14286,-260 -3.93101,-74.99033 33.48839,-183.60163 65.71428,-251.42857 34.58849,-72.79959 54.76483,-85.58041 85.71429,-160 10.76204,-25.8779 23.31003,-130.718385 48.57143,-142.857147 z"
+       id="path4141"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path4143"
+       d="m -611.42857,20.933633 c 85.29487,-40.986421 196.57977,59.284878 254.28572,134.285717 95.78124,124.48757 143.73233,302.85709 114.28571,457.14286 -21.75191,113.96923 -94.1015,242.43014 -202.85714,282.85714 -79.89541,29.69898 -184.30234,-4.0108 -248.57143,-60 -86.41123,-75.27873 -111.1436,-145.5544 -117.14286,-260 -3.93101,-74.99033 33.48839,-183.60163 65.71428,-251.42857 34.58849,-72.79959 54.76483,-85.58041 85.71429,-160 10.76204,-25.8779 23.31003,-130.718385 48.57143,-142.857147 z"
+       style="fill:url(#linearGradient4148);fill-rule:evenodd;stroke:none;stroke-width:9.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/sambehrens/Desktop/pokemango/mango.png"
+       inkscape:export-xdpi="85.718018"
+       inkscape:export-ydpi="85.718018" />
+  </g>
+</svg>
